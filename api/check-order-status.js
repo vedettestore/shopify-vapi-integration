@@ -1,5 +1,4 @@
-import axios from 'axios';
-
+const axios = require('axios');
 const SHOPIFY_STORE_URL = 'https://f27807.myshopify.com';
 const SHOPIFY_ACCESS_TOKEN = process.env.SHOPIFY_ACCESS_TOKEN;
 
